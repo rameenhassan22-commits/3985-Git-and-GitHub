@@ -1,13 +1,8 @@
-# PR Workflow
+## Git Workflow
 
-This repository demonstrates a professional Git and GitHub workflow.
-
-## Topics Demonstrated
-
-- SSH authentication
-- Git branches
-- Commits
-- Pull Requests
-- Code review workflow
-- Merge conflicts
-- Conflict resolution
+1. Create a feature branch
+2. Make changes
+3. Commit changes
+4. Push the branch
+5. Create a Pull Request
+6. Review and merge
