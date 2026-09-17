@@ -10,3 +10,7 @@
 ## Conflict Practice
 
 This line was changed on the feature branch.
+
+## Merge Conflict Demo
+
+Original line for conflict practice.
