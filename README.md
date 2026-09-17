@@ -13,4 +13,4 @@ This line was changed on the feature branch.
 
 ## Merge Conflict Demo
 
-Original line for conflict practice.
+This is the FEATURE version of the conflict line.
