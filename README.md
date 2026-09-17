@@ -9,4 +9,4 @@
 
 ## Conflict Practice
 
-This line was changed on the feature branch.
+This is the MAIN version of the conflict line.
