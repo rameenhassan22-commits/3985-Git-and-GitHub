@@ -9,4 +9,4 @@
 
 ## Conflict Practice
 
-This is the MAIN version of the conflict line.
+This is the final resolved version of the conflict line.
